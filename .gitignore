@@ -8,3 +8,7 @@ scrapely.egg-info
 # coverage reports
 .coverage
 .coverage.*
+
+**/_htmlpage.c
+**/_similarity.c
+
